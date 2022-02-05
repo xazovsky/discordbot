@@ -1,0 +1,2 @@
+# discordbot
+discordbot for sztywnegity
